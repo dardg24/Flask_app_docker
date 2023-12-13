@@ -32,7 +32,7 @@ Sigue estos pasos para poner en marcha el proyecto:
 
 Envía los datos para realizar una predicción.
 ```bash
-POST /predict
+GET /predict
 ```
 
 ### Ingesta de Datos:
