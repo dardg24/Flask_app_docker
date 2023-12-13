@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  web:
+    image: dardg24/mi-primera-app:v1
+    ports:
+      - "5000:5000"  
+    environment:
+      - FLASK_ENV=development  
+    command: python app_model.py  
