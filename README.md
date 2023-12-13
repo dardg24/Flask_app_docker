@@ -65,6 +65,6 @@ Distribuido bajo la Licencia MIT. Ver LICENSE para más información.
 
 ## Contacto
 
-Daniel Rodríguez - danielrdegouveia@gmail.com
+Daniel Gouveia - danielrdegouveia@gmail.com
 
 URL del Proyecto: https://github.com/dardg24/Flask_app_docker
